@@ -50,7 +50,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Shujaat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shujaat81&show_icons=true&theme=radical&hide_border=true" />
+  <img align="left" alt="Shujaat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shujaat81&show_icons=true&theme=dracula&hide_border=true" />
 
 </details>
 
