@@ -39,8 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Recurrent Neural Network and it’s variants…](https://medium.com/analytics-vidhya/recurrent-neural-network-and-its-variants-de75f9ee063)
-- [Mathematics Behind Linear Regression using python](https://medium.com/@hasanshujaat4/mathematics-behind-linear-regression-using-python-e8ee1e430ad7)
+- [Recurrent Neural Network and it’s variants….](https://medium.com/analytics-vidhya/recurrent-neural-network-and-its-variants-de75f9ee063?source=rss-a4132e20b056------2)
+- [Mathematics Behind Linear Regression using python](https://medium.com/@hasanshujaat4/mathematics-behind-linear-regression-using-python-e8ee1e430ad7?source=rss-a4132e20b056------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@hasanshujaat4)
