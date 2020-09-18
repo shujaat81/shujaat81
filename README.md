@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to workout and code
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shujaat Spotify Playing" width="350" />](https://open.spotify.com/user/p2yrlu570kqmwurnie9qkt1v4)
+[![Spotify](https://novatorem.shujaat81.vercel.app/api/spotify)](https://open.spotify.com/user/p2yrlu570kqmwurnie9qkt1v4)
 
 ### Connect with me:
 
