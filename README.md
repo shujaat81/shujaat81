@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on impleneting AI in EdTech!
 - 🌱 I’m currently learning everything 🤣🤣
 - 👯 I’m looking to collaborate with others who really want a change in society using technology
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to workout and code
 
 ### Spotify Playing 🎧
