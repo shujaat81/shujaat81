@@ -47,12 +47,17 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
+### Here's my github README stats:
 
-  <img align="left" alt="Shujaat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shujaat81&show_icons=true&theme=dracula&hide_border=true" />
+![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical)](https://git.io/streak-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
 
-</details>
+
+### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+
+![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+
 
 [website]: https://hasanshujaat4.wixsite.com/shujaathasan
 [twitter]: https://twitter.com/hasanshujaat
