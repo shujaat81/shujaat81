@@ -10,12 +10,8 @@
 - 🥅 2024 Goals: Build a mini AGI agent OS.
 - ⚡ Fun fact: I love to work out and build things with code and electronics.
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.shujaat81.vercel.app/api/spotify)](https://open.spotify.com/user/p2yrlu570kqmwurnie9qkt1v4)
-
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -53,7 +49,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shujaat81)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[website]: https://hasanshujaat4.wixsite.com/shujaathasan
 [twitter]: https://twitter.com/hasanshujaat
 [YouTube]: https://www.youtube.com/channel/UCCjioqYIoZgIoAwahZtWx1g?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/shujaat-hasan-964a9423/
