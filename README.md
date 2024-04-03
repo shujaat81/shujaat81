@@ -3,13 +3,12 @@
 [![Website](https://img.shields.io/website?label=Shujaat&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hasanshujaat4.wixsite.com/shujaathasan)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shujaat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hasanshujaat)
 
-## I'm an Engineer, AI Practitioner, Developer, and Fittness Freak!
+## I'm an Engineer, AI Practitioner, Developer, and Fitness Freak!
 
-- 🔭 I’m currently working on impleneting AI in EdTech!
-- 🌱 I’m currently learning everything 🤣🤣
-- 👯 I’m looking to collaborate with others who really want a change in society using technology
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to workout and code
+- 🔭 I’m currently working on building general AI agents and a mini AGI agent OS!
+- 👯 I’m looking to collaborate with others who really want to completely democratize AI.
+- 🥅 2024 Goals: Build a mini AGI agent OS.
+- ⚡ Fun fact: I love to work out and build things with code and electronics.
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.shujaat81.vercel.app/api/spotify)](https://open.spotify.com/user/p2yrlu570kqmwurnie9qkt1v4)
@@ -47,7 +46,7 @@
 
 ---
 
-### Here's my github README stats:
+### Here's my GitHub README stats:
 
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=shujaat81&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shujaat81&theme=radical)](https://git.io/streak-stats) 
@@ -56,5 +55,5 @@
 
 [website]: https://hasanshujaat4.wixsite.com/shujaathasan
 [twitter]: https://twitter.com/hasanshujaat
-[youtube]: https://www.youtube.com/channel/UCCjioqYIoZgIoAwahZtWx1g?view_as=subscriber
+[YouTube]: https://www.youtube.com/channel/UCCjioqYIoZgIoAwahZtWx1g?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/shujaat-hasan-964a9423/
